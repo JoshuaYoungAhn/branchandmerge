@@ -1,3 +1,24 @@
 img {
-  display:block; 
+  display:inline-block;
+  height: 350px;
+  width: 400px;
+  padding: 5px;
+  border: solid 2px grey;
+}
+body {
+  background-color: black;
+}
+
+h1 {
+  color:white;
+}
+p {
+  color:white;
+}
+
+#pics {
+  height: 1000px;
+  width: 875px;
+
+
 }
