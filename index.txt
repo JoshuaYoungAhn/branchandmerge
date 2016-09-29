@@ -1,0 +1,28 @@
+cd desktop 
+
+mkdir test
+
+touch index.html
+touch styles.css
+
+git init 
+git add .
+
+git commit -m "learning to commit"
+
+git push origin master 
+
+
+git clone ___
+
+cd desktop 
+
+cd test 
+
+git add .
+
+git push 
+
+git log 
+
+git commit -m "new update" 
